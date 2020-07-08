@@ -1,0 +1,13 @@
+Instance: Lisa
+
+Attributes
+height = 70.5
+isWorking = false
+name = ["Lisa", "Ann," "Brown"]
+age = 30
+
+Methods
+feedVeggies: height = 73
+clockIn: isWorking = true
+getMarried: name = ["Lisa", "Ann," "Brown", "Smith"]
+waitAYear: age = 31
