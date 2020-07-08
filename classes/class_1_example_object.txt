@@ -1,0 +1,13 @@
+Table 5
+
+Attributes
+color = brown
+numberOfLegs = 5
+weight = 25
+customerOccupied = false
+
+Methods:
+paint: color = pink
+kickHard: numberOfLegs = 4
+putPitcherDown: weight = 30
+seatCustomer: customerOccupied = true
