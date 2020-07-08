@@ -1,0 +1,13 @@
+Class Server
+
+Attributes
+height (FLoat)
+isWorking (boolean)
+name (array)
+age (Interger)
+
+Methods
+feedVeggies (adds 2.5 to height)
+clockIn (changes isWorking to true)
+getMarried (adds 'Smith' to the end of the array)
+waitAYear (adds 1 to age)
