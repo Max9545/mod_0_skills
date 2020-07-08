@@ -1,0 +1,13 @@
+Class Table
+
+Attributes:
+color (string)
+numberOfLegs (Interger)
+weight (FLoat)
+customerOccupied (boolean)
+
+Methods:
+paint (this changes the color)
+kickHard (subtracts 1 from numberOfLegs)
+putPitcherDown (adds 5 to weight)
+seatCustomer (changes customerOccupied to true)
