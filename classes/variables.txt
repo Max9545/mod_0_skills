@@ -1,9 +1,9 @@
-var food = "egg";
-var is_delicious = new Boolean(false);
-var houseFood = food + steak
+var food = 'egg';
+var is_delicious = false;
+var food = 'steak';
 var num2 = 14;
 var num7 = 20;
-var quotient = num7/num2
-var songs = ["Hey Jude", "Bad", "Happy Birthday"]
-songs.slice(1, 2)
+var quotient = num7 / num2;
+var songs = ["Hey Jude", "Bad", "Happy Birthday", "RDNZL"];
+var playlist = songs.slice(1, 4);
 var how_many= food.length;
